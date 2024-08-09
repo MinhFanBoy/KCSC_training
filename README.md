@@ -1,4 +1,4 @@
-## KCSC_tranning
+## KCSC_training
 
 :v 
 Learning CTF with KCSC
